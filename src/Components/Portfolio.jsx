@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/panda-8171354_1920.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "My Linkdin Website",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "My linkdin website.",
+    url: "https://www.linkedin.com/in/asad-ullah-khan-5147a5261/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Codesoft internship",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "tasks of the code intenship i have done .",
+    url: "https://asadullah123456.github.io/CODESOFT/",
   },
   {
-    title: "My Resume Site",
+    title: "My Email managemnet project",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created for my client.",
+    url: "https://asadullah123456.github.io/ERM/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "YOUTUBE VIDEO OF MY FIRT YEAR PROJECT",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Video on explaining my first year project.",
+    url: "https://youtu.be/n_7YYV2H0ww?feature=shared",
   },
 ];
 
